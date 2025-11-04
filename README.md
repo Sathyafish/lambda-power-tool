@@ -73,7 +73,7 @@ This architecture highlights the importance of Lambda optimization, as it's a ke
    - Add your API request (e.g., POST request to your Lambda endpoint)
    - Configure the request body with appropriate JSON payload
 
-   ![Create Collection in Postman](images/postman-collection.png)
+   ![Create Collection in Postman](images/Postman-collection.png)
 
 2. **Configure Performance Test**
    - Navigate to the **Runner** tab in Postman
@@ -85,14 +85,14 @@ This architecture highlights the importance of Lambda optimization, as it's a ke
    - Free tier supports up to 100 VU (Virtual Users)
    - Enterprise tier can support up to 500 VU for parallel runs
 
-   ![Configure Performance Test in Postman](images/postman-runner-config.png)
+   ![Configure Performance Test in Postman](images/Postman-runner-config.png)
 
 3. **Run Performance Tests**
    - Click "Run Testcollection" to start the performance test
    - Monitor the test execution in real-time
    - After completion, view the detailed performance report
 
-   ![Performance Test Results](images/postman-performance-results.png)
+   ![Performance Test Results](images/Postman-performance-results.png)
 
    **Key Metrics to Review:**
    - Total requests sent
