@@ -16,7 +16,7 @@ Basically, you can provide a Lambda function ARN as input and the state machine 
 
 The chart below compares the invocation time and invocation cost for different memory sizes:
 
-![Lambda Power Tuning Results](images/lambda-power-tuning-results.png)
+![Lambda Power Tuning Results](images/Lamdba-Power-tool-output.png)
 
 **Key Insights:**
 - **Invocation Time (Red Line)**: Decreases as memory increases
